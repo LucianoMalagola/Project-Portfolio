@@ -63,17 +63,27 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-## Education
+## **Education**
 
-### ULATINA
-#### Bachelor’s in Electronics Engineering (Jan 2020 - Aug 2025)
+### **Universidad Latina de Costa Rica (ULATINA)**
+**Bachelor’s in Electronics Engineering** *(Jan 2020 – Aug 2025)*  
+- Built a strong foundation in **electronic systems, automation, programming, and embedded technologies**.  
+- Developed projects integrating **IoT, data analysis, and automation systems**.
+
+---
+
+### **Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)**
+** *[Active Student]* Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
+- Expanding expertise in **data analytics, AI, and machine learning**.  
+- Focused on **data-driven problem-solving** across areas such as **finance, healthcare, and predictive modeling**.
 
 ---
 
-### ULACIT
-#### Credential Degree in Artificial Intelligence and Business Data Analytics (May 2025 - Present)
+### **IBM**
+**Professional Certificate in Data Analysis** *(In Progress)*  
+- Gaining hands-on experience with **data cleaning, visualization, and statistical analysis**.  
+- Learning to apply **Python, SQL, and data visualization tools** to real-world datasets for **data-driven insights**.
 
----
 
 ## Contact
 
