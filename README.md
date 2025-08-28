@@ -25,6 +25,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 - ### [Project 1: Montecarlo Stocks Price Simulator](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting
+  Direct Link to the Jupyter Notebook [here](https://github.com/LucianoMalagola/Montecarlo-Stocks/blob/main/Montecarlo_LucianoMalagola.ipynb)
   - **Goal:** To simulate and forecast stock price movements using Monte Carlo methods, providing insights into potential future price distributions and risk.  
   - **Description:** This project implements a Monte Carlo simulation to model the stochastic behavior of stock prices. It uses historical data to estimate parameters and generates multiple simulated price paths, visualizing possible future outcomes and their probabilities.  
   - **Skills:** Financial modeling, Probability and statistics, Data analysis and visualization, Python programming
