@@ -20,6 +20,8 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - [Project Portfolio](project-portfolio)
   - [Project 1: Montecarlo Stocks Price Simulator](#project-1-montecarlo-stocks-price-simulator)
   - [Project 2: Inventory & Sales Variance Analysis with ETL & Power BI](#project-2-inventory--sales-variance-analysis-with-etl--power-bi)
+- [Education](#education)
+- [Contact](#contact) 
 
 ## **Project Portfolio**
 
@@ -40,6 +42,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 - ### [Project 2: Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   ULACIT Highlight Project > *Note: The repository and documentation are currently in **Spanish**, with an **English version coming soon**.*
+
   Direct Link to the Dashboard preview [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
   - **Goal:** Design and implement a data pipeline to analyze inventory and sales variance between 2024 and 2025, supporting data-driven insights for better inventory planning and decision-making.  
   - **Description:** Built a complete ETL process to clean and consolidate large datasets using **Python** and **Power Query**, preparing them for advanced analysis and visualization in **Power BI**. The project focused on identifying sales patterns, forecasting inventory needs, and highlighting key performance trends.
@@ -58,15 +61,20 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
   - **Technologies:** ...  
   - **Results / Takeaways:** ...  
 
+---
+
 ## Education
 
 ### ULATINA
 #### Bachelor’s in Electronics Engineering (Jan 2020 - Aug 2025)
 
+---
 
 ### ULACIT
 #### Credential Degree in Artificial Intelligence and Business Data Analytics (May 2025 - Present)
- 
+
+---
+
 ## Contact
 
 - LinkedIn: [Luciano Malagola](https://www.linkedin.com/in/luciano-argeo-malagola-angola-ba0221220/)
