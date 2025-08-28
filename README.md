@@ -24,7 +24,8 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-- ### **Project 2: [ESP] Inventory & Sales Variance Analysis with ETL & Power BI** - [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
+- ### **Project 2: [ESP] Inventory & Sales Variance Analysis with ETL & Power BI**
+  An Independent Research Project about Financial Data Modeling and Forecasting -> View [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   - **Goal:** ...  
   - **Description:** ...  
   - **Skills:** ...  
