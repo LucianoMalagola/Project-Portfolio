@@ -15,7 +15,7 @@ You can review my CV here
 This repository showcases my projects in Data Analysis, Data Science and Engineering, Programming, and IoT, blending my background in Electronics with my growing expertise in AI and Machine Learning.
 ## **Project Portfolio**
 
-- ### **Project 1: Inventory & Sales Variance Analysis with ETL & Power BI** - [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
+- ### **Project 1: Montecarlo Stocks Price Simulator** [Link](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   - **Goal:** ...  
   - **Description:** ...  
   - **Skills:** ...  
@@ -24,7 +24,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-- ### **Project 2: [Project Title]**
+- ### **Project 2: [ESP] Inventory & Sales Variance Analysis with ETL & Power BI** - [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   - **Goal:** ...  
   - **Description:** ...  
   - **Skills:** ...  
@@ -43,20 +43,14 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 ## Education
 
 ### ULATINA
-Bach in Electronics
+Bachelor’s in Electronics Engineering
+- Jan 2020 - Aug 2025
 
 ###ULACIT
-Specialization in 
-
-
-
-## Certifications
-
-...
-
-
+Credential Degree in Artificial Intelligence and Business Data Analytics
+- May 2025 - Present
+ 
 ## Contact
 
-- LinkedIn:
-
-- Email:
+- LinkedIn: [Luciano Malagola](https://www.linkedin.com/in/luciano-argeo-malagola-angola-ba0221220/)
+- Email: lmalagola04gmail.com
