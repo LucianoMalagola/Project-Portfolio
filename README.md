@@ -13,14 +13,15 @@ I’m passionate about AI and Machine Learning, especially in applications such 
 You can review my CV here
 
 This repository showcases my projects in Data Analysis, Data Science and Engineering, Programming, and IoT, blending my background in Electronics with my growing expertise in AI and Machine Learning.
-## **Project Portfolio**
 
 ## Table of Contents
 
-- [About Me]
-- [Project Portfolio]
-  - [Project 1](#project-1-montecarlo-stocks-price-simulator) 
+- [About Me](#about-me)
+- [Project Portfolio](project-portfolio)
+  - [Project 1: Montecarlo Stocks Price Simulator](#project-1-montecarlo-stocks-price-simulator)
+  - [Project 2: Inventory & Sales Variance Analysis with ETL & Power BI](#project-2-inventory-&-sales-variance-analysis-with-etl-&-powerbi)
 
+## **Project Portfolio**
 
 - ### [Project 1: Montecarlo Stocks Price Simulator](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting
