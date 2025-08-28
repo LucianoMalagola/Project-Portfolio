@@ -32,7 +32,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
   - **Goal:** To simulate and forecast stock price movements using Monte Carlo methods, providing insights into potential future price distributions and risk.  
   - **Description:** This project implements a Monte Carlo simulation to model the stochastic behavior of stock prices. It uses historical data to estimate parameters and generates multiple simulated price paths, visualizing possible future outcomes and their probabilities.  
   - **Skills:** Financial modeling, Probability and statistics, Data analysis and visualization, Python programming
-  - **Technologies:** Python (NumPy, Pandas, Matplotlib, Relativedelta), yfinance API, Jupyter Notebook 
+  - **Technologies:** Python (NumPy, Pandas, Matplotlib, Relativedelta), yfinance API, Jupyter Notebook. 
   - **Results / Takeaways:**
     - Developed a flexible tool for simulating stock price scenarios.
     - Gained insights into the impact of volatility and randomness on financial forecasting.
