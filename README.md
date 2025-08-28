@@ -73,7 +73,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 ---
 
 ### **Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)**
-** *[Active Student]* Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
+*[Active Student]* **Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
 - Expanding expertise in **data analytics, AI, and machine learning**.  
 - Focused on **data-driven problem-solving** across areas such as **finance, healthcare, and predictive modeling**.
 
