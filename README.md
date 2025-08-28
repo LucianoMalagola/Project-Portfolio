@@ -43,10 +43,10 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 ## Education
 
 ### ULATINA
-# Bachelor’s in Electronics Engineering (Jan 2020 - Aug 2025)
+#### Bachelor’s in Electronics Engineering (Jan 2020 - Aug 2025)
 
 ### ULACIT
-# Credential Degree in Artificial Intelligence and Business Data Analytics (May 2025 - Present)
+#### Credential Degree in Artificial Intelligence and Business Data Analytics (May 2025 - Present)
  
 ## Contact
 
