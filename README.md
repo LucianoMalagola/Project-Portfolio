@@ -25,7 +25,9 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ## **Project Portfolio**
 
-- ### [Project 1: Montecarlo Stocks Price Simulator](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
+  ### Data Analysis
+
+- #### [Project 1: Montecarlo Stocks Price Simulator](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting.
   
   Direct Link to the Jupyter Notebook [here](https://github.com/LucianoMalagola/Montecarlo-Stocks/blob/main/Montecarlo_LucianoMalagola.ipynb)
@@ -40,7 +42,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-- ### [Project 2: Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
+- #### [Project 2: Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   ULACIT Highlight Project > *Note: The repository and documentation are currently in **Spanish**, with an **English version coming soon**.*
 
   Direct Link to the Dashboard preview [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
@@ -54,7 +56,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-- ### **Project 3: [Project Title]**
+- #### **Project 3: [Project Title]**
   - **Goal:** ...  
   - **Description:** ...  
   - **Skills:** ...  
