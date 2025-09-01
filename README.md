@@ -29,7 +29,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
   ### Data Science
 
-- #### [Project 1: Montecarlo Stocks Price Simulator](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
+- #### [Project 1: Monte Carlo Simulation for Stock Price Prediction](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting.
   
   Direct Link to the Jupyter Notebook [here](https://github.com/LucianoMalagola/Montecarlo-Stocks/blob/main/Montecarlo_Stocks_LucianoMalagola.ipynb)
