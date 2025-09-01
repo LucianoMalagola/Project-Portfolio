@@ -19,7 +19,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - [About Me](#about-me)
 - [Project Portfolio](project-portfolio)
   - [Data Science](#data-science) 
-    - [Project 1: Montecarlo Stocks Price Simulator](#project-1-montecarlo-stocks-price-simulator)
+    - [Project 1: Monte Carlo Simulation for Stock Price Prediction](#project-1-montecarlo-stocks-price-simulator)
   - [Data Analysis](#data-analysis)
     - [Project 1: Inventory & Sales Variance Analysis with ETL & Power BI](#project-1-inventory--sales-variance-analysis-with-etl--power-bi)
 - [Education](#education)
