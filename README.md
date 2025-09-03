@@ -17,7 +17,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Project Portfolio](project-portfolio)
+- [Portfolio](portfolio)
   - [Data Science](#data-science) 
     - [Project 1: Monte Carlo Simulation for Stock Price Prediction](#project-1-monte-carlo-simulation-for-stock-price-prediction)
   - [Data Analysis](#data-analysis)
@@ -25,7 +25,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - [Education](#education)
 - [Contact](#contact) 
 
-## **Project Portfolio**
+## **Portfolio**
 
   ### Data Science
 
