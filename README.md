@@ -85,12 +85,6 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-### **IBM**
-**Professional Certificate in Data Analysis** *(In Progress)*  
-- Gaining hands-on experience with **data cleaning, visualization, and statistical analysis**.  
-- Learning to apply **Python, SQL, and data visualization tools** to real-world datasets for **data-driven insights**.
-
-
 ## Contact
 
 - LinkedIn: [Luciano Malagola](https://www.linkedin.com/in/luciano-argeo-malagola-angola-ba0221220/)
