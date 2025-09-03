@@ -17,11 +17,12 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Portfolio](portfolio)
+- [Portfolio](#portfolio)
   - [Data Science](#data-science) 
     - [Project 1: Monte Carlo Simulation for Stock Price Prediction](#project-1-monte-carlo-simulation-for-stock-price-prediction)
   - [Data Analysis](#data-analysis)
     - [Project 1: Inventory & Sales Variance Analysis with ETL & Power BI](#project-1-inventory--sales-variance-analysis-with-etl--power-bi)
+- [Certifications](#certifications)
 - [Education](#education)
 - [Contact](#contact) 
 
@@ -74,7 +75,8 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 ### **Universidad Latina de Costa Rica (ULATINA)**
 **Bachelor’s in Electronics Engineering** *(Jan 2020 – Aug 2025)*  
 - Built a strong foundation in **electronic systems, automation, programming, and embedded technologies**.  
-- Developed projects integrating **IoT, data analysis, and automation systems**.
+- Developed projects integrating **microcontrollers, circuit design, IoT, data analysis, and automation systems**.
+- Acquired experience in project development processes, including requirements definition (functional and non-functional), validation & verification, user-targeted design, prototyping, and execution.
 
 ---
 
@@ -82,6 +84,19 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 *[Active Student]* **Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
 - Expanding expertise in **data analytics, AI, and machine learning**.  
 - Focused on **data-driven problem-solving** across areas such as **finance, healthcare, and predictive modeling**.
+
+---
+
+## Certifications
+
+### IBM
+- Specialization Certificate: [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/GCT8R03852YR)
+- Course Certificate: [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/FOE1ENAKWS91)
+- Course Certificate: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/verify/ERY7C4LBAXJV)
+
+### Rice University
+- Bootcamp: Medical Innovation Bootcamp 2024
+- Bootcamp: Clinical Needs Finding 2024
 
 ---
 
