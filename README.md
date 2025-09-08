@@ -26,9 +26,11 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - [Certifications](#certifications)
 - [Contact](#contact) 
 
+---
+
 ## **Portfolio**
 
-  ### Data Science
+### Data Science
 
 - #### [Project 1: Monte Carlo Simulation for Stock Price Prediction](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting.
@@ -43,9 +45,8 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
     - Gained insights into the impact of volatility and randomness on financial forecasting.
     - Enhanced understanding of risk assessment using probabilistic models.
 
----
 
-  ### Data Analysis
+### Data Analysis
 
 - #### [Project 1: Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   ULACIT Project > *Note: The repository and documentation are in **Spanish**.*
@@ -61,15 +62,6 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ---
 
-- #### **Project 3: [Project Title]**
-  - **Goal:** ...  
-  - **Description:** ...  
-  - **Skills:** ...  
-  - **Technologies:** ...  
-  - **Results / Takeaways:** ...  
-
----
-
 ## **Education**
 
 ### **Universidad Latina de Costa Rica (ULATINA)**
@@ -77,8 +69,6 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - Built a strong foundation in **electronic systems, automation, programming, and embedded technologies**.  
 - Developed projects integrating **microcontrollers, circuit design, IoT, data analysis, and automation systems**.
 - Acquired experience in project development processes, including requirements definition (functional and non-functional), validation & verification, user-targeted design, prototyping, and execution.
-
----
 
 ### **Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)**
 *[Active Student]* **Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
@@ -95,8 +85,8 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - Course Certificate: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/verify/ERY7C4LBAXJV)
 
 ### Rice University
-- Bootcamp: Medical Innovation Bootcamp 2024
-- Bootcamp: Clinical Needs Finding 2024
+- Bootcamp: [Medical Innovation Bootcamp 2024](https://github.com/LucianoMalagola/Bootcamps/blob/main/Medical%20Innovation%20Bootcamp%202024%20-%20Luciano%20Malagola.pdf)
+- Bootcamp: [Clinical Needs Finding 2024](https://github.com/LucianoMalagola/Bootcamps/blob/main/Clinical%20Needs%20Finding%20Bootcamp%20-%20Luciano%20Malagola.pdf)
 
 ---
 
