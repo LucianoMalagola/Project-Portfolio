@@ -81,6 +81,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ### IBM
 - Specialization Certificate: [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/GCT8R03852YR)
+- Course Certificate: [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/records/YMN7XUII9A9D)
 - Course Certificate: [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/FOE1ENAKWS91)
 - Course Certificate: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/verify/ERY7C4LBAXJV)
 
