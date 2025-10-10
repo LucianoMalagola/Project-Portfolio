@@ -10,7 +10,7 @@ I’m currently pursuing a specialization in Artificial Intelligence and Busines
 
 I’m passionate about AI and Machine Learning, especially in applications such as finance, healthcare, supply chain optimization, and predictive modeling. Always curious and eager to learn, I thrive on leveraging data and technology to transform complex problems into actionable insights.
 
-You can review my CV [here](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/CV_Resume_Luciano_Malagola.pdf)
+You can review my CV [here](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/CV%20-%20Luciano%20Malagola.pdf)
 
 This repository showcases my projects in Data Analysis, Data Science and Engineering, Programming, and IoT, blending my background in Electronics with my growing expertise in AI and Machine Learning.
 
