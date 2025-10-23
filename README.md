@@ -44,6 +44,9 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
   <img src="https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/3_Initials_dashboard.png" width="49%" alt="Initials Dash">
 </p>
 
+#### _Data Privacy Notice_
+##### Due to confidentiality agreements with MainStreet Renewal, the source data used in this project cannot be shared, as it contains sensitive client and property information. The visuals shown here are authorized screenshots of the dashboards and analytical tools developed. Any potentially sensitive details (such as property addresses) have been hidden in accordance with company policy.
+
 - **Goal:** Develop an interactive Excel-based Business Intelligence dashboard to consolidate and visualize performance data from multiple SharePoints, supporting real-time KPI monitoring and data-driven decision-making across all U.S. markets.
 - **Description:** Designed and implemented an Excel BI system for the Supply Chain Construction and Field Services Department. The tool automates data consolidation from several SharePoints, applies validation and week-based segmentation, and integrates VLOOKUP/XLOOKUP utilities to locate work orders and records instantly. Interactive PivotTables and charts display KPIs, job status, and team performance, enhanced with VBA-driven ActiveX scrollbars and dynamic formatting for smooth user interaction.
 - **Skills:** Data consolidation, cleaning & validation (Excel / Power Query), ETL workflows, lookup automation, dynamic visualization design, KPI analysis, VBA automation, ActiveX controls, UX optimization.
