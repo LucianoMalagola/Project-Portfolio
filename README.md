@@ -18,10 +18,11 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 - [About Me](#about-me)
 - [Portfolio](#portfolio)
-  - [Data Science](#data-science) 
-    - [Project 1: Monte Carlo Simulation for Stock Price Prediction](#project-1-monte-carlo-simulation-for-stock-price-prediction)
   - [Data Analysis](#data-analysis)
-    - [Project 1: Inventory & Sales Variance Analysis with ETL & Power BI](#project-1-inventory--sales-variance-analysis-with-etl--power-bi)
+    - [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](#mainstreet-renewal--supply-chain-dashboard-excel-bi-system)
+    - [Inventory & Sales Variance Analysis with ETL & Power BI](#inventory--sales-variance-analysis-with-etl--power-bi)
+  - [Data Science](#data-science) 
+    - [Monte Carlo Simulation for Stock Price Prediction](#monte-carlo-simulation-for-stock-price-prediction)
 - [Education](#education)
 - [Certifications](#certifications)
 - [Contact](#contact) 
@@ -30,9 +31,51 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ## **Portfolio**
 
+### Data Analysis
+
+- #### [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)]()
+  Professional Project -> Company: MainStreet Renewal (U.S.)
+
+  Direct Link to the Project Overwiew [here](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/blob/main/README.md)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/1_PO_dashboard.png" width="49%" alt="PO Dash">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/refs/heads/main/Excel%20Dashboard%20-%20MainStreet%20Renewal/3_Initials_dashboard.png" width="49%" alt="Initials Dash">
+</p>
+
+  - **Goal:** Develop an interactive Excel-based Business Intelligence dashboard to consolidate and visualize performance data from multiple SharePoints, supporting real-time KPI monitoring and data-driven decision-making across all U.S. markets.
+  - **Description:** Designed and implemented an Excel BI system for the Supply Chain Construction and Field Services Department. The tool automates data consolidation from several SharePoints, applies validation and week-based segmentation, and integrates VLOOKUP/XLOOKUP utilities to locate work orders and records instantly. Interactive PivotTables and charts display KPIs, job status, and team performance, enhanced with VBA-driven ActiveX scrollbars and dynamic formatting for smooth user interaction.
+  -**Skills:** Data consolidation, cleaning & validation (Excel / Power Query), ETL workflows, lookup automation, dynamic visualization design, KPI analysis, VBA automation, ActiveX controls, UX optimization.
+  -**Technologies:** Microsoft Excel (Advanced), Power Query, VBA, SharePoint.
+  -**Results / Takeaways:**
+    - Reduced manual report preparation time by automating data consolidation and visualization processes.
+    - Enhanced operational transparency and decision-making efficiency for management.
+    - Provided a unified framework for weekly performance reviews.
+    - Empowered team leads and specialists to monitor their own KPIs and performance trends through intuitive dashboards.
+
+
+- #### [Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
+  ULACIT Project > *Note: The repository and documentation are in **Spanish**.*
+
+  Direct Link to the Project Overwiew [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/refs/heads/main/5.%20dashboard_powerbi/1dash.png" width="49%" alt="1dash">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/refs/heads/main/5.%20dashboard_powerbi/2dash.png" width="49%" alt="2dash">
+</p>
+
+  - **Goal:** Design and implement a data pipeline to analyze inventory and sales variance between 2024 and 2025, supporting data-driven insights for better inventory planning and decision-making.  
+  - **Description:** Built a complete ETL process to clean and consolidate large datasets using **Python** and **Power Query**, preparing them for advanced analysis and visualization in **Power BI**. The project focused on identifying sales patterns, forecasting inventory needs, and highlighting key performance trends.
+  - **Skills:** Data cleaning and transformation, ETL processes, data modeling, sales analysis, dashboard creation, and reporting.
+  - **Technologies:** Python, Pandas, Power Query, Power BI, Excel.  
+  - **Results / Takeaways:**
+    - Gained practical experience in building automated ETL workflows and interactive dashboards, providing actionable insights for inventory optimization and sales forecasting.
+    - Enhanced proficiency in handling real-world data for analytics and business intelligence applications.  
+
+
 ### Data Science
 
-- #### [Project 1: Monte Carlo Simulation for Stock Price Prediction](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
+- #### [Monte Carlo Simulation for Stock Price Prediction](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting.
   
   Direct Link to the Jupyter Notebook [here](https://github.com/LucianoMalagola/Montecarlo-Stocks/blob/main/Montecarlo_Stocks_LucianoMalagola.ipynb)
@@ -44,21 +87,6 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
     - Developed a flexible tool for simulating stock price scenarios.
     - Gained insights into the impact of volatility and randomness on financial forecasting.
     - Enhanced understanding of risk assessment using probabilistic models.
-
-
-### Data Analysis
-
-- #### [Project 1: Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
-  ULACIT Project > *Note: The repository and documentation are in **Spanish**.*
-
-  Direct Link to the Dashboard preview [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
-  - **Goal:** Design and implement a data pipeline to analyze inventory and sales variance between 2024 and 2025, supporting data-driven insights for better inventory planning and decision-making.  
-  - **Description:** Built a complete ETL process to clean and consolidate large datasets using **Python** and **Power Query**, preparing them for advanced analysis and visualization in **Power BI**. The project focused on identifying sales patterns, forecasting inventory needs, and highlighting key performance trends.
-  - **Skills:** Data cleaning and transformation, ETL processes, data modeling, sales analysis, dashboard creation, and reporting.
-  - **Technologies:** Python, Pandas, Power Query, Power BI, Excel.  
-  - **Results / Takeaways:**
-    - Gained practical experience in building automated ETL workflows and interactive dashboards, providing actionable insights for inventory optimization and sales forecasting.
-    - Enhanced proficiency in handling real-world data for analytics and business intelligence applications.  
 
 ---
 
