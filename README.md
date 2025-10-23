@@ -21,6 +21,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
   - [Data Analysis](#data-analysis)
     - [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](#mainstreet-renewal--supply-chain-dashboard-excel-bi-system)
     - [Inventory & Sales Variance Analysis with ETL & Power BI](#inventory--sales-variance-analysis-with-etl--power-bi)
+    - [Financial & Sales Performance Dashboard with Power BI](#financial--sales-performance-dashboard-with-power-bi)
   - [Data Science](#data-science) 
     - [Monte Carlo Simulation for Stock Price Prediction](#monte-carlo-simulation-for-stock-price-prediction)
 - [Education](#education)
@@ -71,6 +72,27 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - **Results / Takeaways:**
   - Gained practical experience in building automated ETL workflows and interactive dashboards, providing actionable insights for inventory optimization and sales forecasting.
   - Enhanced proficiency in handling real-world data for analytics and business intelligence applications.  
+
+
+#### [Financial & Sales Performance Dashboard with Power](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/tree/main)
+
+Independent Development / Learning Project
+
+Direct Link to the Dashboard [here](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/blob/main/performance%20dashboard/Sales%20Overview%20and%20KPI%20Tracker.pdf)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/refs/heads/main/performance%20dashboard/sales_overview.png" width="50%" alt="sales_overview">
+</p>
+
+- **Goal:** Replicate and personalize a professional Financial & Sales Dashboard originally demonstrated by [Chandoo](https://youtu.be/i3AR0gt9SHA?si=suMojILCSCgra5D2), applying independent data modeling, DAX calculations, and visualization techniques to analyze financial KPIs, sales performance, and target attainment.
+- **Description:** Developed a Power BI Business Intelligence dashboard using a public dataset from [chandoo.org](https://chandoo.org/wp/) consisting of four tables (Actuals, Targets, dimPeople, and Calendar). Performed extensive data cleaning and transformation in Power Query, correcting duplicate images and restructuring tables for consistency. Built a star-schema data model and implemented key DAX measures (Total Sales, Target, Variance %, YTD metrics) to evaluate business performance. Designed interactive visuals for trend analysis, employee comparison, and financial variance tracking, following data storytelling principles and professional BI layout standards.
+- **Skills:** Data modeling, DAX calculations, KPI analysis, ETL transformation (Power Query), dashboard visualization, trend analysis, and data storytelling.
+- **Technologies:** Microsoft Power BI, Power Query, DAX, Excel (dataset source).
+- **Results / Takeaways:**
+  - Strengthened understanding of professional BI design and metric communication through effective visuals.
+  - Improved data modeling and measure creation skills using DAX.
+  - Learned to build scalable, interactive dashboards connecting multiple tables and analytical perspectives.
+  - Developed analytical thinking and visualization strategies aligned with real-world business reporting workflows.
 
 ---
 
