@@ -64,10 +64,10 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
   <img src="https://raw.githubusercontent.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/refs/heads/main/5.%20dashboard_powerbi/2dash.png" width="49%" alt="2dash">
 </p>
 
-  - **Goal:** Design and implement a data pipeline to analyze inventory and sales variance between 2024 and 2025, supporting data-driven insights for better inventory planning and decision-making.  
+  - **Goal:** Design and implement a data pipeline to analyze inventory and sales variance between 2024 and 2025, supporting data-driven insights for better inventory planning and decision-making.
   - **Description:** Built a complete ETL process to clean and consolidate large datasets using **Python** and **Power Query**, preparing them for advanced analysis and visualization in **Power BI**. The project focused on identifying sales patterns, forecasting inventory needs, and highlighting key performance trends.
   - **Skills:** Data cleaning and transformation, ETL processes, data modeling, sales analysis, dashboard creation, and reporting.
-  - **Technologies:** Python, Pandas, Power Query, Power BI, Excel.  
+  - **Technologies:** Python, Pandas, Power Query, Power BI, Excel.
   - **Results / Takeaways:**
     - Gained practical experience in building automated ETL workflows and interactive dashboards, providing actionable insights for inventory optimization and sales forecasting.
     - Enhanced proficiency in handling real-world data for analytics and business intelligence applications.  
