@@ -33,7 +33,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ### Data Analysis
 
-- #### [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)]()
+- #### [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-)
   Professional Project -> Company: MainStreet Renewal (U.S.)
 
   Direct Link to the Project Overwiew [here](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/blob/main/README.md)
@@ -57,7 +57,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - #### [Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   ULACIT Project > *Note: The repository and documentation are in **Spanish**.*
 
-  Direct Link to the Project Overwiew [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
+  Direct Link to the Dashboard Preview Overwiew [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/refs/heads/main/5.%20dashboard_powerbi/1dash.png" width="49%" alt="1dash">
