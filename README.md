@@ -58,7 +58,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 #### [Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   ULACIT Project -> *Note: The repository and documentation are in **Spanish**.*
 
-  Direct Link to the Dashboard Preview Overwiew [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
+  Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/refs/heads/main/5.%20dashboard_powerbi/1dash.png" width="49%" alt="1dash">
@@ -78,7 +78,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 Independent Development / Learning Project
 
-Direct Link to the Dashboard [here](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/blob/main/performance%20dashboard/Sales%20Overview%20and%20KPI%20Tracker.pdf)
+Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/blob/main/performance%20dashboard/Sales%20Overview%20and%20KPI%20Tracker.pdf)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/refs/heads/main/performance%20dashboard/sales_overview.png" width="50%" alt="sales_overview">
