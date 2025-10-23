@@ -74,7 +74,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
   - Enhanced proficiency in handling real-world data for analytics and business intelligence applications.  
 
 
-#### [Financial & Sales Performance Dashboard with Power](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/tree/main)
+#### [Financial & Sales Performance Dashboard with Power BI](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/tree/main)
 
 Independent Development / Learning Project
 
