@@ -45,9 +45,9 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
   - **Goal:** Develop an interactive Excel-based Business Intelligence dashboard to consolidate and visualize performance data from multiple SharePoints, supporting real-time KPI monitoring and data-driven decision-making across all U.S. markets.
   - **Description:** Designed and implemented an Excel BI system for the Supply Chain Construction and Field Services Department. The tool automates data consolidation from several SharePoints, applies validation and week-based segmentation, and integrates VLOOKUP/XLOOKUP utilities to locate work orders and records instantly. Interactive PivotTables and charts display KPIs, job status, and team performance, enhanced with VBA-driven ActiveX scrollbars and dynamic formatting for smooth user interaction.
-  -**Skills:** Data consolidation, cleaning & validation (Excel / Power Query), ETL workflows, lookup automation, dynamic visualization design, KPI analysis, VBA automation, ActiveX controls, UX optimization.
-  -**Technologies:** Microsoft Excel (Advanced), Power Query, VBA, SharePoint.
-  -**Results / Takeaways:**
+  - **Skills:** Data consolidation, cleaning & validation (Excel / Power Query), ETL workflows, lookup automation, dynamic visualization design, KPI analysis, VBA automation, ActiveX controls, UX optimization.
+  - **Technologies:** Microsoft Excel (Advanced), Power Query, VBA, SharePoint.
+  - **Results / Takeaways:**
     - Reduced manual report preparation time by automating data consolidation and visualization processes.
     - Enhanced operational transparency and decision-making efficiency for management.
     - Provided a unified framework for weekly performance reviews.
