@@ -34,7 +34,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ### Data Analysis
 
-#### [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-)
+### [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-)
   Professional Project -> Company: MainStreet Renewal (U.S.)
 
   Direct Link to the Project Overwiew [here](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/blob/main/README.md)
@@ -58,7 +58,7 @@ _Due to confidentiality agreements with MainStreet Renewal, the source data used
   - Empowered team leads and specialists to monitor their own KPIs and performance trends through intuitive dashboards.
 
 
-#### [Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
+### [Inventory & Sales Variance Analysis with ETL & Power BI](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT)
   ULACIT Project -> *Note: The repository and documentation are in **Spanish**.*
 
   Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/Proyecto-Big-Data-ULACIT/blob/main/5.%20dashboard_powerbi/Big%20Data%20PowerBI.pdf)
@@ -77,7 +77,7 @@ _Due to confidentiality agreements with MainStreet Renewal, the source data used
   - Enhanced proficiency in handling real-world data for analytics and business intelligence applications.  
 
 
-#### [Financial & Sales Performance Dashboard with Power BI](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/tree/main)
+### [Financial & Sales Performance Dashboard with Power BI](https://github.com/LucianoMalagola/Financial-Sales-Performance-Dashboard-with-Power-BI/tree/main)
 
 Independent Development / Learning Project
 
@@ -101,7 +101,7 @@ Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/F
 
 ### Data Science
 
-#### [Monte Carlo Simulation for Stock Price Prediction](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
+### [Monte Carlo Simulation for Stock Price Prediction](https://github.com/LucianoMalagola/Montecarlo-Stocks/tree/main)
   An Independent Research Project about Financial Data Modeling and Forecasting.
   
   Direct Link to the Jupyter Notebook [here](https://github.com/LucianoMalagola/Montecarlo-Stocks/blob/main/Montecarlo_Stocks_LucianoMalagola.ipynb)
