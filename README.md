@@ -139,15 +139,21 @@ Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/F
 
 ## Certifications
 
-### IBM
+### IBM Skills Network
 - Specialization Certificate: [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/GCT8R03852YR)
 - Course Certificate: [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/records/YMN7XUII9A9D)
 - Course Certificate: [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/FOE1ENAKWS91)
 - Course Certificate: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/verify/ERY7C4LBAXJV)
 
+### Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)
+- Course Certificate: [Advanced Data Analysis for Business](https://github.com/LucianoMalagola/Academic-Credentials/blob/main/Certifications/186200041418%20-%20AN%C3%81LISIS%20DE%20DATOS%20AVANZADO%20PARA%20NEGOCIOS.pdf)
+- Course Certificate: [Deep Learning and Neural Networks](https://github.com/LucianoMalagola/Academic-Credentials/blob/main/Certifications/186200041418%20-%20APRENDIZAJE%20PROFUNDO%20Y%20REDES%20NEURONALES.pdf)
+- Course Certificate: [Big Data and Processing Technologies](https://github.com/LucianoMalagola/Academic-Credentials/blob/main/Certifications/186200041418%20-%20BIG%20DATA%20Y%20TECNOLOG%C3%8DAS%20DE%20PROCESAMIENTO.pdf)
+- Course Certificate: [Foundations of Artificial Intelligence and Machine Learning](https://github.com/LucianoMalagola/Academic-Credentials/blob/main/Certifications/186200041418%20-%20FUNDAMENTOS%20DE%20IA%20Y%20MACHINE%20LEARNING.pdf)
+
 ### Rice University
-- Bootcamp: [Medical Innovation Bootcamp 2024](https://github.com/LucianoMalagola/Bootcamps/blob/main/Medical%20Innovation%20Bootcamp%202024%20-%20Luciano%20Malagola.pdf)
-- Bootcamp: [Clinical Needs Finding 2024](https://github.com/LucianoMalagola/Bootcamps/blob/main/Clinical%20Needs%20Finding%20Bootcamp%20-%20Luciano%20Malagola.pdf)
+- Bootcamp: [Medical Innovation Bootcamp 2024](https://github.com/LucianoMalagola/Academic-Credentials/blob/main/Bootcamps/Medical%20Innovation%20Bootcamp%202024%20-%20Luciano%20Malagola.pdf)
+- Bootcamp: [Clinical Needs Finding 2024](https://github.com/LucianoMalagola/Academic-Credentials/blob/main/Bootcamps/Clinical%20Needs%20Finding%20Bootcamp%20-%20Luciano%20Malagola.pdf)
 
 ---
 
