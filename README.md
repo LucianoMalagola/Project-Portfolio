@@ -133,7 +133,9 @@ Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/F
 ### **Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)**
 *[Active Student]* **Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
 - Expanding expertise in **data analytics, AI, and machine learning**.  
-- Focused on **data-driven problem-solving** across areas such as **finance, healthcare, and predictive modeling**.
+- Focused on **applying data-driven decision-making**, **predictive modeling**, and **automation** to solve real-world business and technical challenges.
+- Developing skills in **Python**, **R**, **SQL**, **Power BI**, and **cloud-based analytics tools**, with emphasis on data preparation, visualization, and model evaluation.
+- Coursework includes Advanced Data Analysis for Business, Deep Learning and Neural Networks, Big Data and Processing Technologies, Foundations of AI and Machine Learning, Diagnostics and Predictibility.
 
 ---
 
