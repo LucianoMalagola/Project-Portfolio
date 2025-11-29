@@ -19,7 +19,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - [About Me](#about-me)
 - [Portfolio](#portfolio)
   - [Data Analysis](#data-analysis)
-    - [Main Street Renewal – Supply Chain Excel Operational Reporting Tool](#mainstreet-renewal-supply-chain-excel-operational-reporting-tool-)
+    - [Main Street Renewal – Supply Chain Excel Operational Reporting Tool](#mainstreet-renewal--supply-chain-excel-operational-reporting-tool-)
     - [Inventory & Sales Variance Analysis with ETL & Power BI](#inventory--sales-variance-analysis-with-etl--power-bi)
     - [Financial & Sales Performance Dashboard with Power BI](#financial--sales-performance-dashboard-with-power-bi)
   - [Data Science](#data-science) 
