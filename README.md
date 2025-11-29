@@ -19,7 +19,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 - [About Me](#about-me)
 - [Portfolio](#portfolio)
   - [Data Analysis](#data-analysis)
-    - [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](#mainstreet-renewal--supply-chain-dashboard-excel-bi-system)
+    - [Main Street Renewal – Supply Chain Excel Operational Reporting Tool](#mainstreet-renewal-supply-chain-excel-operational-reporting-tool-)
     - [Inventory & Sales Variance Analysis with ETL & Power BI](#inventory--sales-variance-analysis-with-etl--power-bi)
     - [Financial & Sales Performance Dashboard with Power BI](#financial--sales-performance-dashboard-with-power-bi)
   - [Data Science](#data-science) 
@@ -34,7 +34,7 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 
 ### Data Analysis
 
-### [MainStreet Renewal – Supply Chain Dashboard (Excel BI System)](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-)
+### [Main Street Renewal – Supply Chain Excel Operational Reporting Tool](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-)
   Professional Project -> Company: MainStreet Renewal (U.S.)
 
   Direct Link to the Project Overwiew [here](https://github.com/LucianoMalagola/MainStreet-Renewal-Supply-Chain-Dashboard-Excel-BI-System-/blob/main/README.md)
@@ -45,10 +45,11 @@ This repository showcases my projects in Data Analysis, Data Science and Enginee
 </p>
 
 #### _Data Privacy Notice_
-_Due to confidentiality agreements with MainStreet Renewal, the source data used in this project cannot be shared, as it contains sensitive client and property information. The visuals shown here are authorized screenshots of the dashboards and analytical tools developed. Any potentially sensitive details (such as property addresses) have been hidden in accordance with company policy._
+_Due to confidentiality agreements with Main Street Renewal, the source data used in this project cannot be shared, as it contains sensitive client and property information.
+The visuals shown here are only authorized screenshots of the reports and analytical tools developed. Any potentially sensitive details (such as property addresses) have been hidden in accordance with company policy._
 
-- **Goal:** Develop an interactive Excel-based Business Intelligence dashboard to consolidate and visualize performance data from multiple SharePoints, supporting real-time KPI monitoring and data-driven decision-making across all U.S. markets.
-- **Description:** Designed and implemented an Excel BI system for the Supply Chain Construction and Field Services Department. The tool automates data consolidation from several SharePoints, applies validation and week-based segmentation, and integrates VLOOKUP/XLOOKUP utilities to locate work orders and records instantly. Interactive PivotTables and charts display KPIs, job status, and team performance, enhanced with VBA-driven ActiveX scrollbars and dynamic formatting for smooth user interaction.
+- **Goal:** Develop an interactive Excel-based Business Intelligence Reporting Tool to consolidate and visualize performance data from multiple SharePoints, supporting real-time KPI monitoring and data-driven decision-making across all U.S. markets.
+- **Description:** Designed and implemented an Excel BI system for the Supply Chain Construction and Field Services Department. The tool automates data consolidation from several SharePoints, applies validation and week-based segmentation, and integrates VLOOKUP/XLOOKUP utilities to locate work orders instantly. Interactive PivotTables and charts display KPIs, job status, and team performance, enhanced with VBA-driven ActiveX scrollbars and dynamic formatting for smooth user interaction.
 - **Skills:** Data consolidation, cleaning & validation (Excel / Power Query), ETL workflows, lookup automation, dynamic visualization design, KPI analysis, VBA automation, ActiveX controls, UX optimization.
 - **Technologies:** Microsoft Excel (Advanced), Power Query, VBA, SharePoint.
 - **Results / Takeaways:**
