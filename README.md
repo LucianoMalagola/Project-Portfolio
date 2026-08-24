@@ -2,13 +2,15 @@
 
 ## About Me
 
-Hello, I’m Luciano Malagola.
+Hi, I'm Luciano Malagola
 
-I hold a Bachelor's degree in Electronics Engineering from ULATINA, where I built a strong foundation in electronic systems, automation, and embedded technologies. During my studies, I discovered my passion for data, analysis, programming, and IoT, which led me to explore how technology and data intersect to create smarter solutions.
+I pair a Bachelor's in Electronics Engineering (ULATINA) with a completed Credential Degree in Artificial Intelligence and Business Data Analytics (ULACIT), giving me a systems-level approach to turning messy data into decisions non-technical stakeholders can act on.
 
-I’m currently pursuing a specialization in Artificial Intelligence and Business Data Analytics at ULACIT, while also working toward the IBM Professional Certification in Data Analysis. This combination of hardware expertise and data-driven skills enables me to approach problems with a systems-thinking mindset, bridging engineering and analytics to deliver innovative solutions.
+At Amherst (Main Street Renewal), as a Data Reporting Specialist Intern, I built and maintained Excel-based BI reporting tools and dashboards for Supply Chain and Field Services teams spanning multiple U.S. markets — gathering requirements straight from stakeholders and automating recurring workflows with Power Query and VBA. At Swissol, as a Photovoltaic Systems Engineering Intern, I built performance dashboards and technical documentation that kept solar operations running smoothly.
 
-I’m passionate about AI and Machine Learning, especially in applications such as finance, healthcare, supply chain optimization, and predictive modeling. Always curious and eager to learn, I thrive on leveraging data and technology to transform complex problems into actionable insights.
+*Core toolkit*: SQL · Python (Pandas, NumPy) · Power BI (data modeling, DAX) · Tableau · Advanced Excel — put to work across the Data Analysis, Data Science, and Machine Learning projects below, from ETL pipelines to predictive modeling.
+
+If you work with data in finance, healthcare, or supply chain, the projects below show exactly how I approach it — take a look.
 
 You can review my **CV** in [English](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/Luciano%20Malagola%20-%20CV%20(ENG).pdf) or in [Spanish](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/Luciano%20Malagola%20-%20CV%20(ESP).pdf)
 
@@ -132,7 +134,7 @@ Direct Link to the Dashboard Preview [here](https://github.com/LucianoMalagola/F
 - Acquired experience in project development processes, including requirements definition (functional and non-functional), validation & verification, user-targeted design, prototyping, and execution.
 
 ### **Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)**
-*[Active Student]* **Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Present)*  
+*[Active Student]* **Credential Degree in Artificial Intelligence and Business Data Analytics** *(May 2025 – Aug 2026)*  
 - Expanding expertise in **data analytics, AI, and machine learning**.  
 - Focused on **applying data-driven decision-making**, **predictive modeling**, and **automation** to solve real-world business and technical challenges.
 - Developing skills in **Python**, **R**, **SQL**, **Power BI**, and **cloud-based analytics tools**, with emphasis on data preparation, visualization, and model evaluation.
