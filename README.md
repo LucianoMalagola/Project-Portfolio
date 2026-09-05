@@ -12,7 +12,7 @@ At Amherst (Main Street Renewal), as a Data Reporting Specialist Intern, I built
 
 If you work with data in finance, healthcare, or supply chain, the projects below show exactly how I approach it — take a look.
 
-You can review my **CV** in [English](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/Luciano%20Malagola%20-%20CV%20(ENG).pdf) or in [Spanish](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/Luciano%20Malagola%20-%20CV%20(ESP).pdf)
+You can review my **CV** [here](https://github.com/LucianoMalagola/CV-Resume-Luciano-Malagola/blob/main/Luciano%20Malagola%20-%20CV%20(ENG).pdf)
 
 This repository showcases my projects in Data Analysis, Data Science and Engineering, Programming, and IoT, blending my background in Electronics with my growing expertise in AI and Machine Learning.
 
