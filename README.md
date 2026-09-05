@@ -8,7 +8,7 @@ I pair a Bachelor's in Electronics Engineering (ULATINA) with a completed Creden
 
 At Amherst (Main Street Renewal), as a Data Reporting Specialist Intern, I built and maintained Excel-based BI reporting tools and dashboards for Supply Chain and Field Services teams spanning multiple U.S. markets — gathering requirements straight from stakeholders and automating recurring workflows with Power Query and VBA. At Swissol, as a Photovoltaic Systems Engineering Intern, I built performance dashboards and technical documentation that kept solar operations running smoothly.
 
-*Core toolkit*: SQL · Python (Pandas, NumPy) · Power BI (data modeling, DAX) · Tableau · Advanced Excel — put to work across the Data Analysis, Data Science, and Machine Learning projects below, from ETL pipelines to predictive modeling.
+*Core toolkit*: SQL (MySQL, PostgreSQL, SQLite, Microsoft SQL Server) · Python (Pandas, NumPy, Seaborn) · Power BI (data modeling, DAX) · Tableau · Advanced Excel (PivotTables, Power Query, VBA macros/automation, complex formulas) — put to work across the Data Analysis, Data Science, and Machine Learning projects below, from ETL pipelines to predictive modeling.
 
 If you work with data in finance, healthcare, or supply chain, the projects below show exactly how I approach it — take a look.
 
